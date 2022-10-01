@@ -12,10 +12,19 @@ nav{
 }
 .container{
     background-color: black;
+    width: 100%;
 }
-ul li a{
-    color: white;
-}
+
 button span{
     background-color: white;
+}
+.carousel slide{
+    width: 300px;
+}
+p{
+    font-size: x-large;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    flex-direction: row-reverse;
 }
