@@ -28,3 +28,6 @@ p{
 .navbar-expand-lg .navbar-collapse {
     flex-direction: row-reverse;
 }
+.dropdown-menu dropdown-menu-dark{
+    background-color: black;
+}
