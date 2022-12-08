@@ -1,8 +1,8 @@
 body{
-    background-color: green;
+    background-color: #343a40;
     text-align: -webkit-center;
 }
-.box{
+.container{
     width: 50%;
     align-items: center;
     background-color: rgba(255, 255, 255, 0.572);
