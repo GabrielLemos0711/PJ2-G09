@@ -130,5 +130,10 @@ html, body {
     margin-left: 38%;
     margin-top: 5%;
   }
+  #baixo{
+    position: absolute;
+    margin-left: -3rem;
+    margin-top: -10rem;
+  }
 
   
